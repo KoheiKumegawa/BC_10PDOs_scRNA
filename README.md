@@ -3,4 +3,4 @@
 ## Publisher's page (Open Access) : 
 ### Thank you for visiting our publication page. Main R codes are availble. Please cite if our work helps you.
 
-![](https://github.com/KoheiKumegawa/BC_10PDOs_scRNA/blob/main/figure1.png)
+![](https://github.com/KoheiKumegawa/BC_10PDOs_scRNA/blob/main/figure2.png)
